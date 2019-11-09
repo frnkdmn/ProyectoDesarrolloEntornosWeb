@@ -1,0 +1,27 @@
+.destinos{
+    margin: 0px auto;
+    max-width: 1200px;
+    padding-top: 100px;
+}
+.destinos img{
+    border-bottom: 4px solid red;
+}
+.destinos h2{
+    color: #f48024;
+    font-weight: 300;
+    font-family: 'Lato', sans-serif;
+    font-size: 25pt;
+}
+.texto{
+    margin-left: 192px;
+    max-width: 900px; 
+    padding-bottom: 50px;
+}
+.texto p{
+    text-align: justify;
+}
+.videos{
+    padding-top: 20px;
+    width: 600px;
+    margin: auto;
+}

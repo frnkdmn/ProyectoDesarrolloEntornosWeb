@@ -1,0 +1,41 @@
+body{
+    color:#fff;
+}
+#img-principal4{
+    background: url(../imagenes/Ofertas.jpg);
+    width: 1600px;
+    height: 431px;
+    position: relative;
+}
+#texto4{
+    color: #fff;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+#texto4-2{
+    width: 40%;
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 100px;
+    font-size: 22px;
+    color:#fff;
+}
+form{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 30%;
+    margin: auto;
+}
+.form-horizontal{
+    position: absolute;
+    width: 40%;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+li{
+    margin-bottom: 20px;
+}
+section p{
+    color:black;
+}
