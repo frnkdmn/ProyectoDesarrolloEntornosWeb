@@ -1,0 +1,13 @@
+.container12 {
+
+	max-width:1000px;
+	width:100%;
+    margin:0 auto;
+    padding-top: 200px;
+    height: 500px;
+	position:relative;
+}
+#hote{
+    padding-left: 12px;
+    padding-top: 10px;
+}

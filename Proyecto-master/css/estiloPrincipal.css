@@ -58,26 +58,35 @@ body{
     height: 50px;
 }
 nav{
+    display: flex;
     width: 40%;
+    
 }
 nav ul{
+    margin-right: 900px;
     display: flex;
     justify-content: space-around;
 }
 nav li{
+    list-style: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-right: 1px solid black;
+}
+nav a{
     font-weight: bold;
     font-size: 20px;
-    margin-top: 10px;
-    list-style: none;
-    border-right: 1px solid black;
-    padding-right: 90px;
+    text-decoration: none;
+    color: black;
 }
 .sinborde{
     border-right: none;
 }
-nav li a{
-    text-decoration: none;
-    color: black;
+.contactenos{
+    margin-top: 25px;
+    display:flex;
 }
 section{
     font-family: 'Lato',sans-serif;
@@ -196,6 +205,13 @@ footer h1{
     padding: 20px;
     color: white;
     text-align: center;
+}
+footer h2{
+    font-size: 20px;
+    color:white;
+    text-align: center;
+    margin: 0;
+    padding-top: 20px;
 }
 footer div{
     display: flex;
